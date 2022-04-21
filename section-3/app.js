@@ -1,0 +1,1 @@
+console.log(module); // JSON object. it's not a global object
